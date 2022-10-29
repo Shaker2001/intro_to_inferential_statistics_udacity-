@@ -9,7 +9,7 @@ t-tests and ANOVA.
 correlation and regression.
 chi-squared test.
 good Arabic intro : 
-- shorturl.at/wzJU0
+- https://shorturl.at/wzJU0
 Arabic material : 
 - shorturl.at/gp358
 - https://bit.ly/3Di5WgB
