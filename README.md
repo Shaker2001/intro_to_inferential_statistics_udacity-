@@ -9,8 +9,11 @@ t-tests and ANOVA.
 correlation and regression.
 chi-squared test.
 good Arabic intro : 
+
 - https://shorturl.at/wzJU0
-Arabic material : 
+- 
+Arabic material :
+
 - shorturl.at/gp358
 - https://bit.ly/3Di5WgB
 - https://bit.ly/3T4dwBr
