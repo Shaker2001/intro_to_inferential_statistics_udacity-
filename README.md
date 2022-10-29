@@ -8,9 +8,11 @@ hypothesis testing and confidence intervals.
 t-tests and ANOVA.
 correlation and regression.
 chi-squared test.
-good Arabic intro : shorturl.at/wzJU0
-Arabic material : shorturl.at/gp358
--https://bit.ly/3Di5WgB
+good Arabic intro : 
+- shorturl.at/wzJU0
+Arabic material : 
+- shorturl.at/gp358
+- https://bit.ly/3Di5WgB
 - https://bit.ly/3T4dwBr
 - beautiful articles :
 - to well-understand : https://www.scribbr.com/statistics/inferential-statistics/
